@@ -11,3 +11,7 @@ We go ahead and experiment with model-free (**IMPALA**) and model-based (**PLANE
 <div align="center">
 <img src = "images/objective.png" alt="Puzzle" width="50%" height="50%">
 </div>
+
+**Papers**
+- IMPALA ([link][https://arxiv.org/abs/1802.01561])
+- PLANET ([link][https://arxiv.org/abs/1811.04551])
