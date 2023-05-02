@@ -9,5 +9,5 @@ We go ahead and experiment with model-free (**IMPALA**) and model-based (**PLANE
 </div>
 
 <div align="center">
-<img src = "images/objective.png" alt="Puzzle" width="50%" height="auto%">
+<img src = "images/objective.png" alt="Puzzle" width="50%" height="50%">
 </div>
