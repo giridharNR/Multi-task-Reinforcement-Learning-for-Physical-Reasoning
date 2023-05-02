@@ -14,8 +14,15 @@ We go ahead and experiment with model-free (**IMPALA**) and model-based (**PLANE
 
 **Papers**
 - IMPALA
-    - Paper: (https://arxiv.org/abs/1802.01561)
-    - Github:
+    - Paper: https://arxiv.org/abs/1802.01561
+    - Github: https://github.com/Sheepsody/Batched-Impala-PyTorch
 - PLANET 
-    - Paper: (https://arxiv.org/abs/1811.04551)
-    - Github:
+    - Paper: https://arxiv.org/abs/1811.04551
+    - Github: https://github.com/abhayraw1/planet-torch
+
+To reproduce the results, make sure that below requirements are satisified
+```commandline
+- Operating System: Ubuntu 20+
+- Python: 3.7
+- Torch: Cuda-Python specific torch
+```
