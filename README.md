@@ -13,5 +13,9 @@ We go ahead and experiment with model-free (**IMPALA**) and model-based (**PLANE
 </div>
 
 **Papers**
-- IMPALA (https://arxiv.org/abs/1802.01561)
-- PLANET (https://arxiv.org/abs/1811.04551)
+- IMPALA
+    - Paper: (https://arxiv.org/abs/1802.01561)
+    - Github:
+- PLANET 
+    - Paper: (https://arxiv.org/abs/1811.04551)
+    - Github:
