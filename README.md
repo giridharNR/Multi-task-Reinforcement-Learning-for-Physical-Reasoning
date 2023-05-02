@@ -7,4 +7,5 @@ In this work, we take a task, create multiple variations of it and see if a RL a
 
 We go ahead and experiment with model-free (**IMPALA**) and model-based (**PLANET**) reinforcement learning algorithms. The agent architectures are slightly modified to fit to our use case.
 </div>
+
 ![alt text](images/objective.png)
