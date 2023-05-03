@@ -27,10 +27,11 @@ To reproduce the results, make sure that below requirements are satisified
 - Torch: Cuda-Python specific torch
 ```
 
-**Results Multi-Task**
+**Results (Multi-Task)**
 - Model-free | Model-based
 
 <div align="center">
 <img src = "images\multi_plot.png" alt="multi_plot" width="50%" height="50%">
 </div>
 
+-Transition Model from PlaNet
