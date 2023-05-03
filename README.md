@@ -42,3 +42,6 @@ Left gif is the Ground-Truth. Right gif is the o/p of transition model
 
 **Results (Single-Task)**
 - Model-free | Model-based
+<div align="center">
+<img src = "images\single.png" width="75%" height="75%">
+</div>
