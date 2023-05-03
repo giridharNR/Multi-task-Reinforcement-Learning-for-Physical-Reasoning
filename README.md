@@ -28,14 +28,8 @@ To reproduce the results, make sure that below requirements are satisified
 ```
 
 **Results Multi-Task**
-- Model-free
-
-<div align="center">
-<img src = "images\impala_multi.png" alt="impala_multi" width="50%" height="50%">
-</div>
-
-- Model-based
+- Model-free                                |                    Model-based
 <p float="left">
-  <img src="images\planet_multi.png" alt="aa" width="400" />
-  <img src="images\transition.gif" alt="ab"width="200" /> 
+  <img src="images\impala_multi.png"  width="400" />
+  <img src="images\planet_multi.png" width="400" /> 
 </p>
