@@ -9,7 +9,7 @@ We go ahead and experiment with model-free (**IMPALA**) and model-based (**PLANE
 </div>
 
 <div align="center">
-<img src = "images/objective.png" alt="Puzzle" width="50%" height="50%">
+<img src = "images/objective.png" width="30%">
 </div>
 
 **Papers**
@@ -37,7 +37,7 @@ To reproduce the results, make sure that below requirements are satisified
 - O/p of Transition Model from PlaNet
 Left gif is the Ground-Truth. Right gif is the o/p of transition model
 <div align="center">
-    <img src="images\transition.gif"  width="20%" />
+    <img src="images\transition.gif"  width="30%" />
 </div>
 
 **Results (Single-Task)**
