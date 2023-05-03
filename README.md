@@ -26,3 +26,15 @@ To reproduce the results, make sure that below requirements are satisified
 - Python: 3.7
 - Torch: Cuda-Python specific torch
 ```
+
+**Results Multi-Task**
+- Model-free
+
+<div align="center">
+<img src = "images\impala_multi.png" alt="impala_multi" width="50%" height="50%">
+</div>
+
+- Model-based
+<div align="center">
+<img src = "images\planet_multi.png" alt="planet_multi" width="50%" height="50%">
+</div>
