@@ -12,11 +12,8 @@ https://drive.google.com/drive/folders/17ZZALFQiUqMCQH7TL5IFiE2kmMkE4e5d?usp=sha
 #Install Requirements
 pip install -r requirements.txt
 
-#To Test
+#To Run
 python main.py
-
-#To Train
-python main.py #
 ```
 
 Resources for PlaNet
