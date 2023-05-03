@@ -28,7 +28,9 @@ To reproduce the results, make sure that below requirements are satisified
 ```
 
 **Results Multi-Task**
-- Model-free                                |                    Model-based
-<p float="left">
-  <img src="images\multi_plot.png"  width="400" />
-</p>
+- Model-free | Model-based
+
+<div align="center">
+<img src = "images\multi_plot.png" alt="multi_plot" width="50%" height="50%">
+</div>
+
