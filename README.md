@@ -40,6 +40,6 @@ To reproduce the results, make sure that below requirements are satisified
 </div>
 
 <p float="left">
-  <img src="images\impala_multi.png" width="400" />
-  <img src="images\multi-env2.gif" width="400" /> 
+  <img src="images\impala_multi.png" alt="aa" width="400" />
+  <img src="images\multi-env2.gif" alt="ab"width="400" /> 
 </p>
