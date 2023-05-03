@@ -45,3 +45,10 @@ Left gif is the Ground-Truth. Right gif is the o/p of transition model
 <div align="center">
 <img src = "images\single.png" width="75%" height="75%">
 </div>
+
+- Agent solving the puzzle on different tasks
+<div align="center">
+    <img src="images\multi-env2.gif"  width="30%" />
+    <img src="images\multi-env3.gif"  width="30%" />
+    <img src="images\multi-env4.gif"  width="30%" />
+</div>
