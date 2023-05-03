@@ -38,3 +38,8 @@ To reproduce the results, make sure that below requirements are satisified
 <div align="center">
 <img src = "images\planet_multi.png" alt="planet_multi" width="50%" height="50%">
 </div>
+
+<p float="left">
+  <img src="images\impala_multi.png" width="400" />
+  <img src="images\multi-env2.gif" width="400" /> 
+</p>
