@@ -30,6 +30,5 @@ To reproduce the results, make sure that below requirements are satisified
 **Results Multi-Task**
 - Model-free                                |                    Model-based
 <p float="left">
-  <img src="images\impala_multi.png"  width="400" />
-  <img src="images\planet_multi.png" width="400" /> 
+  <img src="images\multi_plot.png"  width="400" />
 </p>
