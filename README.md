@@ -35,7 +35,6 @@ To reproduce the results, make sure that below requirements are satisified
 </div>
 
 - O/p of Transition Model from PlaNet
-<div>
-    <img src="https://media.giphy.com/media/3o6fJ4V7GJffOQ2V7C/giphy.gif" alt="Dog in a hat" width="400" />
-    <img src="https://images.unsplash.com/photo-1535476982009-a86ef05e0f16" alt="Puppy in a field" width="400" />
+<div align="center">
+    <img src="images\transition.gif"  width="50%" />
 </div>
