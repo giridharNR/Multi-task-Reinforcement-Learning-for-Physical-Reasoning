@@ -56,7 +56,7 @@ Left gif is the Ground-Truth. Right gif is the o/p of transition model
 - Agent solving the puzzle - Single Task
 <div align="center">
     <img src="images\single-env_1.gif"  width="30%" />
-    <img src="images\single-env_2.gif"  width="30%" />
+    <img src="images\single-env2.gif"  width="30%" />
 </div>
 
 - Agent failing to solve the puzzle
