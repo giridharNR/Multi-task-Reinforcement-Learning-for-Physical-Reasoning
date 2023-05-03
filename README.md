@@ -37,5 +37,5 @@ To reproduce the results, make sure that below requirements are satisified
 - Model-based
 <p float="left">
   <img src="images\planet_multi.png" alt="aa" width="400" />
-  <img src="images\multi-env2.gif" alt="ab"width="400" /> 
+  <img src="images\transition.avi" alt="ab"width="400" /> 
 </p>
