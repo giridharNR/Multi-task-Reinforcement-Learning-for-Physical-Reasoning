@@ -31,10 +31,14 @@ To reproduce the results, make sure that below requirements are satisified
 - Model-free | Model-based
 
 <div align="center">
-<img src = "images\multi_plot.png" alt="multi_plot" width="50%" height="50%">
+<img src = "images\multi_plot.png" alt="multi_plot" width="75%" height="75%">
 </div>
 
 - O/p of Transition Model from PlaNet
+Left gif is the Ground-Truth. Right gif is the o/p of transition model
 <div align="center">
     <img src="images\transition.gif"  width="50%" />
 </div>
+
+**Results (Single-Task)**
+- Model-free | Model-based
