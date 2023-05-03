@@ -1,0 +1,11 @@
+0
+2 -> seesaw_balanced +
+3 ->small trampoline right 
+10 -> small nice ramp
+15 ->big nice ramp
+21 -> good rocket
+35 -> vertical small rectangle
+150 -> nice bucket
+
+600 -> nice see saw
+18
